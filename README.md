@@ -1,2 +1,2 @@
-# bagisto-intro
-laravel with bagisto
+# laravel-with-bagisto
+Laravel with bagisto
